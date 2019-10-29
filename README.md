@@ -1,2 +1,3 @@
-# ETL_SQL
-# ETL_SQL
+# ETL SQL
+
+Curso de programación SQl y ETL 
